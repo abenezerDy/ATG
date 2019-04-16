@@ -6,7 +6,7 @@
 
 ### npm start
 
-## librarys used
+## libraries used
 
 - react
 - mobx-state-tree
